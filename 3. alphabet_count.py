@@ -1,5 +1,3 @@
-from collections import Counter
-
 def alphabet_count(text):
 
 	# Inisialisasi variable
